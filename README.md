@@ -66,6 +66,7 @@ From the leverage plot in the upper right of the Figure 6, there are three teams
 After checking the assumptions and finding no blatant violations, the data was then used to determine the results of the multiple linear regression.
 
 The results of the multiple linear regression with the full model are shown below in Figure 7. The ANOVA table shows that the explanatory variables chosen to be in the model are effective at predicting the number of wins as shown by the P-value < 0.0001. The table below this displays some statistics of the model such as the adjusted R-square value which claims that this model can explain about 96% of the variability in the amount of wins a team will have in a season. Additionally, the estimated standard deviation (Root MSE) is only 2.84 wins.
+
 ![alt text](https://github.com/pamazing1515/Howtowin-NBA/blob/master/fig7.1.JPG)
 ![alt text](https://github.com/pamazing1515/Howtowin-NBA/blob/master/fig7.2.JPG)
 
